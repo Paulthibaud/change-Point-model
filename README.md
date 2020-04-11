@@ -1,2 +1,3 @@
-# change-Point-model-
-Change-Point model for a normal law applied to the TER (french suburb train) monthly regularity data.
+# cutting-stock-problem
+
+Study of two ways for solving a cutting stock problem using column generation and meta-heuristic. 
