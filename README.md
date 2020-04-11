@@ -1,3 +1,3 @@
-# cutting-stock-problem
+# change-Point-model
 
-Study of two ways for solving a cutting stock problem using column generation and meta-heuristic. 
+
